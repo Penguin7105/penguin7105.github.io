@@ -1,0 +1,19 @@
+body {
+  background-color: blue !important;
+  color: lime !important;
+}
+<style>
+body {
+  position: relative; /* Required for absolute positioning */
+}
+
+.container {
+  position: relative; /* Required for absolute positioning of child elements */
+}
+
+.corner-image {
+  position: absolute;
+  top: 0px; /* Adjust top position */
+  right: 10px; /* Adjust right position */
+  width: 100px; /* Adjust image width */
+}
