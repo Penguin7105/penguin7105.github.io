@@ -8,3 +8,20 @@ a {
 body {
     background-color: black; 
 }
+
+
+.corner-link {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.corner-link:hover {
+    background-color: #45a049;
+}
+
