@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "Penguin7105", 
+    "address": "https://anisette-v3-server-8cfm.onrender.com/"
 }
