@@ -1,8 +1,8 @@
 {
     "servers": [
         {
-            "name": "[Penguin7105]",
-            "address": "https://anisette-v3-server-8cfm.onrender.com/"
+            "name": "Penguin7105",
+            "address": "https://anisette-v3-server-8cfm.onrender.com"
         }
     ]
 }
